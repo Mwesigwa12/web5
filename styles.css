@@ -1,0 +1,9 @@
+ol{
+    background-color: aqua;
+    list-style: upper-roman;
+
+}
+ul{
+    color: azure;
+    font-size: 30px;
+}
